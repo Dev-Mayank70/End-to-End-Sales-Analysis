@@ -1,0 +1,16 @@
+SALES ANALYSIS - BUSINESS INSIGHTS
+==================================================
+
+Total Sales: 118,726,350.26
+Total Profit: 16,893,702.26
+Total Units Sold: 1,125,806
+Profit Margin: 14.23%
+
+Highest-sales segment: Government
+Highest-sales country: United States of America
+Highest-sales product: Paseo
+Most profitable product: Paseo
+Highest-sales year: 2014
+Highest-profit year: 2014
+Lowest-profit product: Carretera
+Highest-margin segment: Channel Partners
